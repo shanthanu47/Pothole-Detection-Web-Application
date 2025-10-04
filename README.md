@@ -1,4 +1,4 @@
-# Pothole Reporter Web App
+# Pothole Detection Web Application
 
 A modern web application that empowers citizens to report potholes in their community using AI-powered image classification. Users can capture and upload images of road conditions, which are automatically analyzed to identify potholes, and visualized on an interactive map for efficient road maintenance planning.
 
